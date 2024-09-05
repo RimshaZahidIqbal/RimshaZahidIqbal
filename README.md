@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.codewars.com/users/Rimsha%20Zahid/badges/large" width="100"/>
+  <img src="https://www.codewars.com/users/Rimsha%20Zahid/badges/large" width="50%"/>
 </div>
 
 
