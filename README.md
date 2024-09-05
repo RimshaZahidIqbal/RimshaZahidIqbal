@@ -1,4 +1,8 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://www.codewars.com/users/Rimsha%20Zahid/badges/large" width="100"/>
+</div>
+
+
 
 <!--
 **RimshaZahidIqbal/RimshaZahidIqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
