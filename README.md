@@ -6,6 +6,9 @@
 
 - 📫 How to reach me: **zrimsha@129gmail.com**
 
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RimshaZahidIqbal&theme=algolia&margin-w=10)](https://github.com/RimshaZahidIqbal/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://stackoverflow.com/users/27021784" target="_blank">
