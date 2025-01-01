@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Python, C#, Node.js, Django**
 
-- 📫 How to reach me: **zrimsha@129gmail.com**
+- 📫 How to reach me: **zrimsha@219gmail.com**
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=RimshaZahidIqbal&theme=algolia&margin-w=10&title=-Reviews)](https://github.com/RimshaZahidIqbal/github-profile-trophy)
 
