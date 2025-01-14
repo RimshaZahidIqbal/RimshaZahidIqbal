@@ -93,12 +93,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RimshaZahidIqbal&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p> 
 
-<!-- GitHub Stats 
+ GitHub Stats 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RimshaZahidIqbal&theme=dark" alt="GitHub Streak" />
 </p>
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=RimshaZahidIqbal&theme=dark" alt="GitHub Streak">
-</p>
--->
+
+
 
